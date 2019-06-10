@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
 
     private val textReverser = TextReverser()
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
